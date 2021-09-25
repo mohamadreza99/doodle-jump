@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  project1.cpp
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(112,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(282,11): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(420,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(435,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(436,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(469,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mohamadreza\Desktop\project1\project1\project1.cpp(520,9): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  SDL2_gfx.lib(SDL2_rotozoom.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\Mohamadreza\Desktop\project1\Debug\project1.lib and object C:\Users\Mohamadreza\Desktop\project1\Debug\project1.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+SDL2_gfx.lib(SDL2_rotozoom.obj) : warning LNK4099: PDB 'SDL2_gfx.pdb' was not found with 'SDL2_gfx.lib(SDL2_rotozoom.obj)' or at 'C:\Users\Mohamadreza\Desktop\project1\Debug\SDL2_gfx.pdb'; linking object as if no debug info
+  project1.vcxproj -> C:\Users\Mohamadreza\Desktop\project1\Debug\project1.exe
